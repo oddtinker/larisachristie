@@ -2,7 +2,7 @@
 
 My name is Larisa and I...
 - am 
-- - a junior frontend developer at GraphCMS 💜
+- - a junior frontend developer at [GraphCMS](https://graphcms.com/) 💜
 - - a [FrauenLoop](https://www.frauenloop.org) alumna 💪
 - - fond of JavaScript, React and all things frontend 🤓
 - - currently learning Rust 🦀 , TypeScript and algorithms
