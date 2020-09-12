@@ -9,4 +9,5 @@ My name is Larisa and I...
 - - languages: I speak Russian, English, German and Norwegian, and I'm working on adding Italian to that list
 - - contemporary literature
 - - helping others learn
-- Pronouns: she / her
+
+_Pronouns: she / her_
