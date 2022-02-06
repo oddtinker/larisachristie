@@ -3,7 +3,7 @@
 My name is Larisa and I...
 - am 
   - a frontend developer at [GraphCMS](https://graphcms.com/) 💜
-  - a [FrauenLoop](https://www.frauenloop.org) alumna 💪
+  - a [FrauenLoop](https://www.frauenloop.org) alumna and mentor 💪
   - fond of JavaScript, React and all things frontend 🤓
   - currently learning Rust 🦀 and Python 🐍
 - like
